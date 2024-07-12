@@ -1,0 +1,1 @@
+[Basic Error Handling](https://stevedonovan.github.io/rust-gentle-intro/6-error-handling.html) 
