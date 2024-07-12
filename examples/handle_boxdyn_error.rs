@@ -16,7 +16,7 @@ pub fn run() -> Result<(), Box<dyn Error>> {
     let condition = true;
 
     if condition {
-        return Err(Box::new(MyError("Oops".into())));
+        return Err(Box::new(MyError("Here => Oops".into())));
     }
 
     Ok(())
@@ -28,4 +28,4 @@ fn main() {
     }
 }
 
-// cargo run --examples handle_boxdyn_error
+// cargo run --example handle_boxdyn_error
