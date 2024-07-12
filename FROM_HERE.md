@@ -1,0 +1,1 @@
+# [FROM HERE](https://stackoverflow.com/questions/51550167/how-to-manually-return-a-result-boxdyn-error)
